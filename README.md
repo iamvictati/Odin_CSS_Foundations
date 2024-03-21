@@ -1,2 +1,1 @@
-# Odin_CSS_Foundations
-Odin CSS Foundations Practice
+# Odin_Foundations
